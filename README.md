@@ -2,5 +2,5 @@
 
 for math only rn
 ```js
-r=webpackChunkdigit_math.push([[Symbol()],{},n=>n]);skip=s=>r(86570).q.saveLessonResults({score:s,rawScore:s,rawMaxScore:100},r(88745).Z);
+r=html5Iframe.contentWindow.webpackChunkdigit_math.push([[Symbol()],{},n=>n]);skip=s=>r(86570).q.saveLessonResults({score:s,rawScore:s,rawMaxScore:100},r(88745).Z);
 ```
